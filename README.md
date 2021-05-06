@@ -9,7 +9,7 @@
 
 ## 画面イメージ (ScreenShot)
 
-<img src="https://github.com/s51517765/Medication_management/blob/master/image.jpg">
+<img src="https://github.com/s51517765/Medication_management/blob/main/image.jpg">
 
 ## 動作要件 (Requirements)
 
