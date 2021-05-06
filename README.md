@@ -16,7 +16,7 @@
 M5Stack Basic / C++ / GAS(Google app script) / Googleスプレッドシート
 
 ## 技術的解説 (Technical explanation)
-https://s51517765.hatenadiary.jp/entry/2021/05/xx/073000
+https://s51517765.hatenadiary.jp/entry/2021/05/10/073000
 
 ## 回路図 (Circuit diagram)
 
